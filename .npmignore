@@ -1,0 +1,13 @@
+# idea开发工具
+*.iml
+/.idea
+
+# node
+*.lock
+package-lock.json
+/dist
+/build
+/node_modules
+*.log
+/public
+/src
